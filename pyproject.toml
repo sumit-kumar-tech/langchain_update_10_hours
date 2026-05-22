@@ -13,5 +13,6 @@ dependencies = [
     "langchain-groq>=1.1.2",
     "langchain-ollama>=1.1.0",
     "langchain-openai>=1.2.1",
+    "langsmith>=0.8.5",
     "python-dotenv>=1.2.2",
 ]
