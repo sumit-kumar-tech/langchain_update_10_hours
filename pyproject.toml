@@ -15,5 +15,6 @@ dependencies = [
     "langchain-openai>=1.2.1",
     "langchain-tavily>=0.2.18",
     "langsmith>=0.8.5",
+    "pypdf>=6.12.1",
     "python-dotenv>=1.2.2",
 ]
